@@ -1,0 +1,23 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.main{
+    margin-left: 200px;
+    padding: 20px 80px 80px 80px;
+    height:auto;
+    width:400px;
+    align-items: center;
+    border: 2px black solid;
+
+}
+.card{
+    height:auto;
+    width:auto;
+    text-align: left;
+    background: rgb(236, 213, 213);
+    color: crimson;
+}
+
+.card h1{
+    text-align: center;
+}
